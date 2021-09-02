@@ -1,0 +1,11 @@
+Hola! 
+Antes que nada queria agradecerles por el interes en mi trabajo.
+Puedo decir con humildad que es mi primer proyecto como programador y diseñador web.
+Fue una gran desafio para mi.
+Es el reflejo de mis primeros pasos hacia la magia de la cración de una Webside y eso me llena paradogijamente de orgullo.
+Estoy muy contento del progreso, ampliación y profundización en mis estudios sobre las tecnologias para el desarrollo web.
+En este proyecto aplique unicamente HTML,CSS y Js puro. Sin framework`s ni librerias.
+
+Me despido con un cordial Saludo.
+
+atte: Ivan Sebastian Nuñez.
